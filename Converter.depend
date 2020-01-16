@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1510765280 source:c:\users\cpt\documents\workspace\practice\converter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1510809963 source:c:\users\cpt\documents\workspace\practice\converter\homepage.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1510940488 c:\users\cpt\documents\workspace\practice\converter\functions.h
+
+1510657915 c:\users\cpt\documents\workspace\practice\converter\homepage.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1510745491 source:c:\users\cpt\documents\workspace\practice\converter\category.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1510746801 source:c:\users\cpt\documents\workspace\practice\converter\measure.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1511002599 source:c:\users\cpt\documents\workspace\practice\converter\choice.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functions.h"
+
+1511028617 source:c:\users\cpt\documents\workspace\practice\converter\function.c
+	<ctype.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
